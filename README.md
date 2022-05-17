@@ -8,7 +8,7 @@
 ![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-white?style=for-the-badge&logo=django&logoColor=092E20)&nbsp;
 ![React Js](https://img.shields.io/badge/-react-white?style=for-the-badge&logo=react)&nbsp;
-![Vue Js](https://img.shields.io/badge/-Vue-white?style=flat&logo=vuedotjs&logoColor=white)&nbsp;
+![Vue Js](https://img.shields.io/badge/-Vue-white?style=for-the-badge&logo=vue)&nbsp;
 ![RestAPI](https://img.shields.io/badge/-REST-white?style=for-the-badge&logo=rest&logoColor=092E20)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-white?style=for-the-badge&logo=graphql&logoColor=092E20)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-white?style=for-the-badge&logo=flutter&logoColor=092E20)&nbsp;
