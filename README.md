@@ -37,5 +37,5 @@
 <!-- 
 <a target="_blank" href="mailto:ajaykarki333@gmail.com"><img src="https://img.shields.io/badge/-ajaykarki333@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a target="_blank" href="https://www.instagram.com/ajaykarki333/"><img src="https://img.shields.io/badge/-@ajaykarki333-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a target="_blank" href="https://www.facebook.com/ajaykarki333/"><img src="https://img.shields.io/badge/-@ajaykarki333-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> -->
+<a target="_blank" href="https://www.facebook.com/bonishthapa/"><img src="https://img.shields.io/badge/-@bonishthapa-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> -->
 </p>
