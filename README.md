@@ -22,11 +22,11 @@
 ![GitHubActions](https://img.shields.io/badge/-GitHubActions-white?style=for-the-badge&logo=githubactions&logoColor=1572B6)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-white?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <p align="start">
-<a href="https://github.com/bonishthapa">
+<!-- <a href="https://github.com/bonishthapa">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bonishthapa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
-</p>
-![Bonish's GitHub stats]<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bonishthapa&theme=radical&show_icons=true" />
+</p> -->
+!<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bonishthapa&theme=radical&show_icons=true" />
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AjayKarki&theme=radical" alt="AjayKarki" /></p>                              
  -->
 
