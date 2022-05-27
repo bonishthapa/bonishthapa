@@ -26,7 +26,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bonishthapa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
 </p>
-![Bonish's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonishthapa&theme=radical&show_icons=true)
+![Bonish's GitHub stats]<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bonishthapa&theme=radical&show_icons=true" />
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AjayKarki&theme=radical" alt="AjayKarki" /></p>                              
  -->
 
