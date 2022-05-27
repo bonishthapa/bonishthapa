@@ -26,8 +26,12 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bonishthapa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
 </p> -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bonishthapa&theme=panda&show_icons=true" />
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AjayKarki&theme=radical" alt="AjayKarki" /></p>                              
+  
+<a href="https://github.com/bonishthapa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bonishthapa&theme=panda&show_icons=true" />
+ </a>
+  
+  <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AjayKarki&theme=radical" alt="AjayKarki" /></p>                              
  -->
 
 ### 🤝🏻 &nbsp;Connect with Me
