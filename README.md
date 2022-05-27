@@ -34,7 +34,7 @@
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/bonishthapa/"><img src="https://img.shields.io/badge/-BonishThapa-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <!-- <a target="_blank" href="https://ajaykarki.github.io/"><img src="https://img.shields.io/badge/-ajaykarki.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a target="_blank" href="https://www.instagram.com/ajaykarki333/"><img src="https://img.shields.io/badge/-@ajaykarki333-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> -->
+<a target="_blank" href="https://www.instagram.com/ajaykarki333/"><img src="https://img.shields.io/badge/-@bonishthapa-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> -->
 <a target="_blank" href="mailto:bonishthapa@gmail.com"><img src="https://img.shields.io/badge/-ajaykarki333@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a target="_blank" href="https://www.facebook.com/thapabonis/"><img src="https://img.shields.io/badge/-@thapabonis-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> -->
+<a target="_blank" href="https://www.facebook.com/thapabonis/"><img src="https://img.shields.io/badge/-@thapabonis-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
