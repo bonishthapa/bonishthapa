@@ -22,10 +22,10 @@
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <p align="start">
-<!-- <a href="https://github.com/bonishthapa">
+<a href="https://github.com/bonishthapa">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bonishthapa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
-</p> -->
+</p>
   
 <a href="https://github.com/bonishthapa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bonishthapa&theme=panda&show_icons=true" />
