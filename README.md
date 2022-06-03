@@ -27,12 +27,8 @@
   </a>
 </p>
   
-<a href="https://github.com/bonishthapa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bonishthapa&theme=panda&show_icons=true" />
- </a>
   
-  <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AjayKarki&theme=radical" alt="AjayKarki" /></p>                              
- -->
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bonishthapa&theme=radical" alt="BonishThapa" /></p>                              
 
 ### 🤝🏻 &nbsp;Connect with Me
 
