@@ -1,7 +1,6 @@
 ## Hey there! I'm Bonish
 
 🎓Computer Engineer.\
-✍️In my free time, I love to watch Anime, play games.
 
 ### 🛠 &nbsp;Tech Stack
 
