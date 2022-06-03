@@ -5,29 +5,12 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-white?style=for-the-badge&logo=django&logoColor=092E20)&nbsp;
-![React Js](https://img.shields.io/badge/-react-white?style=for-the-badge&logo=react)&nbsp;
-![Vue Js](https://img.shields.io/badge/-Vue-white?style=for-the-badge&logo=vue)&nbsp;
-![RestAPI](https://img.shields.io/badge/-REST-white?style=for-the-badge&logo=rest&logoColor=092E20)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-white?style=for-the-badge&logo=graphql&logoColor=092E20)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-white?style=for-the-badge&logo=flutter&logoColor=092E20)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-white?style=for-the-badge&logo=firebase&logoColor=092E20)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-white?style=for-the-badge&logo=amazonaws&logoColor=092E20)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-white?style=for-the-badge&logo=docker&logoColor=092E20)&nbsp;\
-![HTML](https://img.shields.io/badge/-HTML-white?style=for-the-badge&logo=HTML5)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
-![Git](https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-white?style=for-the-badge&logo=github&logoColor=1572B6)&nbsp;
-![GitHubActions](https://img.shields.io/badge/-GitHubActions-white?style=for-the-badge&logo=githubactions&logoColor=1572B6)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-white?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/PYTHON-5674EE?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/DJANGO-3EB963?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/REST-F47272?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/PYTHON-5674EE?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/DJANGO-3EB963?style=for-the-badge&logo=django&logoColor=white)
+![](https://img.shields.io/badge/REST-F47272?style=for-the-badge&logo=rest&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/MONGODB-00EF8M?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
