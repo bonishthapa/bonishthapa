@@ -28,7 +28,7 @@
 </p>
   
   
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bonishthapa&theme=radical" alt="BonishThapa" /></p>                              
+  <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bonishthapa&theme=radical" alt="BonishThapa" /></p> -->                          
 
 ### 🤝🏻 &nbsp;Connect with Me
 
