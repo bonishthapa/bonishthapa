@@ -1,6 +1,6 @@
 ## Hey there! I'm Bonish
 
-🎓Computer Engineer.\
+🎓Computer Engineer
 
 ### 🛠 &nbsp;Tech Stack
 
